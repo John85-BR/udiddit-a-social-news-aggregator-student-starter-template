@@ -8,4 +8,6 @@ Unfortunately, due to some time constraints before the initial launch of the sit
 
 The tasks describe in the archive named "Udiddit, a social news aggregator.pdf" has been complete in SQL postgree and load on the file "Udiddit.sql".
 
+The data is also attached at the bottom of this page in https://video.udacity-data.com/topher/2020/February/5e548a9f_bad-db/bad-db.sql.
+
 
